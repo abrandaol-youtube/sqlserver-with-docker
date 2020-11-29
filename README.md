@@ -1,2 +1,2 @@
-# sqlserver-with-docker
-SqlServer-With-Docker
+# Para executar:
+docker-compose up
