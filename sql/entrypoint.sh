@@ -1,4 +1,5 @@
 #!/bin/bash
+database=Prime
 wait_time=15s
 password=Password123!
 
